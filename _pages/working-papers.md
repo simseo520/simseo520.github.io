@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## "Portfolio Shifts and Financial Intermediation: A DSGE Analysis of U.S. Household Deposit Outflows”
-======
 
 This paper develops a New Keynesian Dynamic Stochastic General
 Equilibrium (NK–DSGE) model with financial intermediation to investigate the effects of recent changes in U.S. households’ portfolio choices on the overall economy. The model incorporates stylized features to represent recent observations in the U.S. financial market, such as the decrease in non-transaction deposits held by households, the increase in investment from bank holding companies to their subsidiary banks, and the rise in loans from banks to non-bank financial institutions (NBFIs). The model is calibrated and estimated using U.S. data from 2009:Q3
