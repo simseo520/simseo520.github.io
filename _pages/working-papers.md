@@ -20,6 +20,7 @@ to 2025:Q2. The model suggests that changes in the financial distress of househo
 
 <a href="https://simseo520.github.io/files
 /Natural_Rate_of_Unemployment.pdf">"A Holistic Approach to Macroeconomic Fundamentals: Joint Estimates of Natural Rates"</a> with Regis Barnichon, Christian Matthes, and Byung Goog Park
+
 ======
 * Abstract
 We develop a method to jointly estimate natural rates—or ‘stars’—
