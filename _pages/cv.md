@@ -15,4 +15,4 @@ Education
 * M.S. in Economics, Yonsei University, 2017
 * B.S. in Economics & Philosophy, Yonsei University, 2013
 
-<a href="https://github.com/simseo520/simseo520.github.io/master/files/cv_sbsim.pdf">CV in PDF format</a>
+  <a href="https://simseo520.github.io/files/cv_sbsim.pdf">CV in PDF format</a>
