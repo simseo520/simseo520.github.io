@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Indiana University, Bloomington, 2026 (expected)
+* Ph.D in Economics, Indiana University, Bloomington, 2026
 * M.S. in Economics, Yonsei University, 2017
 * B.S. in Economics & Philosophy, Yonsei University, 2013
 

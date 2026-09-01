@@ -15,10 +15,8 @@ This paper develops a New Keynesian DSGE model with a segmented financial sector
 
 
 
-## **["A Holistic Approach to Macroeconomic Fundamentals: Joint Estimates of Natural Rates"](https://simseo520.github.io/files/Natural_Rate_of_Unemployment.pdf)** 
+## **["A Holistic Approach to Macroeconomic Fundamentals: Joint Estimates of Natural Rates"](https://simseo520.github.io/files/holistic_approach_sbsim.pdf)** 
 ### with Regis Barnichon, Christian Matthes, and Byung Goog Park
 
 
-We develop a method to jointly estimate natural rates—or ‘stars’—
-from long-run macroeconomic data. The approach embeds prior information about natural rates into a time-varying parameter VAR
-with stochastic volatility. It explicitly accounts for measurement error and outliers, making it well suited for historical analysis, including episodes like the COVID-19 pandemic and the post-pandemic inflation surge.
+We develop a method to jointly estimate natural rates—or `stars'— from long-run macroeconomic data. The approach embeds prior information about natural rates into a time-varying parameter VAR with  stochastic volatility. It explicitly accounts for measurement error and outliers, making it well suited for historical analysis, including episodes like the COVID-19 pandemic and the post-pandemic inflation surge.
