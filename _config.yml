@@ -26,9 +26,9 @@ author:
   avatar           : "sbsim_photo.jpg"
   name             : "Seongbo Sim"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Economics"
-  location         : 'Bloomington, IN'
-  employer         : "Indiana University - Bloomington"
+  bio              : ""
+  location         : ''
+  employer         : ""
   uri              : # URL
   email            : "simseo@iu.edu" 
   # Academic websites
